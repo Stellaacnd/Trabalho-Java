@@ -1,0 +1,3 @@
+Código: 00, Desc: fdsfsdfs, Custo: R$200.0, Preço: R$500.0, Fornecedor: 00
+Código: 21, Desc: Elastica, Custo: R$500.0, Preço: R$1000.0, Fornecedor: 213
+Código: 22, Desc: Pscina de bolinha , Custo: R$400.0, Preço: R$800.0, Fornecedor: 214

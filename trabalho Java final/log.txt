@@ -1,0 +1,29 @@
+2025-06-16T23:21:09.445899800 - Cadastro de pessoa: Registro: 0 Nome: manda andrade (3)
+Endereços:
+Produtos:
+
+2025-06-16T23:28:30.566785700 - Cadastro de pessoa: Registro: 01 Nome: Amanda Andrade (Cliente)
+Endereços:
+Produtos:
+
+2025-06-16T23:29:09.511232300 - Cadastro de pedido: Pedido: 001, Cliente: Amanda, Endereço: ksdajlkd, Produtos: jsdallkjsakl,aksjsj, Total: R$2500
+2025-06-16T23:30:57.110038100 - Atualização de pessoa: Código 01
+2025-06-16T23:33:56.640970700 - Cadastro de pessoa: Registro: 00 Nome: Tati slkdj (ambos)
+Endereços:
+Produtos:
+
+2025-06-16T23:34:53.006991900 - Cadastro de produto: Código: 00, Desc: fdsfsdfs, Custo: R$200.0, Preço: R$500.0, Fornecedor: 00
+2025-06-16T23:41:02.326748800 - Cadastro de pedido: Pedido: 0001, Cliente: AMANDA, Endereço: kdsjf, Produtos: 00, Total: R$3500
+2025-06-16T23:47:35.299958800 - Cadastro de produto: Código: 21, Desc: Elastica, Custo: R$500.0, Preço: R$1000.0, Fornecedor: 213
+2025-06-16T23:48:07.516427900 - Cadastro de produto: Código: 22, Desc: Pscina de bolinha , Custo: R$400.0, Preço: R$800.0, Fornecedor: 214
+2025-06-16T23:48:29.372668100 - Cadastro de pessoa: Registro: 11 Nome: Amanda  Andrade (Cliente)
+Endereços:
+Produtos:
+
+2025-06-16T23:52:01.788871300 - Cadastro de pedido: Pedido de Venda | Cliente: 11, Endereço: dsadas: dsijdals, adsadas (sadas) - CEP: sdasd, Produtos: [Produto: 21,22, Qtd: 1, Unit: R$50.0, Subtotal: R$50.0] , Total: R$50.0
+2025-06-16T23:57:57.563307600 - Cadastro de pessoa: Registro: 12 Nome: Alice Andrade (Cliente)
+Endereços:
+- Residencial: Manoel Bandeira , 14 (port�o do meio ) - CEP: 83409310
+Produtos:
+
+2025-06-16T23:59:19.510135100 - Cadastro de pedido: Pedido de Venda | Cliente: 12, Endereço: - Residencial: Manoel Bandeira , 14 (port�o do meio ) - CEP: 83409310, Produtos: [Produto: 21, Qtd: 2, Unit: R$1000.0, Subtotal: R$2000.0] [Produto: 22, Qtd: 1, Unit: R$800.0, Subtotal: R$800.0] , Total: R$2800.0

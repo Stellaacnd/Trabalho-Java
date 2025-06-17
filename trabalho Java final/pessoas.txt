@@ -1,0 +1,36 @@
+Registro: 001 Nome: Helielton Souza
+- Residencial:Rua Fernando Moreira, 124, Apartamento, Curitiba
+ CEP: 80410120
+- Entrega:Rua das Flores, 184, Barraco, Curitiba
+ CEP: 80090120
+Cargo em nossa empresa: Dono
+
+Registro: 001 Nome: Ton WEblingol
+- Residencial:Rua Fernando Moreira, 124, Apartamento, Curitiba
+ CEP: 80410120
+- Entrega:Rua das Flores, 184, Barraco, Curitiba
+ CEP: 80090120
+Funcionário da empresa: Modelaria tubos
+Representante de vendas de: PVCs
+
+Registro: 0 Nome: manda andrade (3)
+Endereços:
+Produtos:
+
+Registro: 01 Nome: Amanda Andrade (Cliente)
+Endereços:
+Produtos:
+
+Registro: 00 Nome: Tati slkdj (ambos)
+Endereços:
+Produtos:
+
+Registro: 11 Nome: Amanda  Andrade (Cliente)
+Endereços:
+Produtos:
+
+Registro: 12 Nome: Alice Andrade (Cliente)
+Endereços:
+- Residencial: Manoel Bandeira , 14 (port�o do meio ) - CEP: 83409310
+Produtos:
+

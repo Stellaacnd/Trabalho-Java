@@ -1,0 +1,4 @@
+Pedido: 001, Cliente: Amanda, Endereço: ksdajlkd, Produtos: jsdallkjsakl,aksjsj, Total: R$2500
+Pedido: 0001, Cliente: AMANDA, Endereço: kdsjf, Produtos: 00, Total: R$3500
+Pedido de Venda | Cliente: 11, Endereço: dsadas: dsijdals, adsadas (sadas) - CEP: sdasd, Produtos: [Produto: 21,22, Qtd: 1, Unit: R$50.0, Subtotal: R$50.0] , Total: R$50.0
+Pedido de Venda | Cliente: 12, Endereço: - Residencial: Manoel Bandeira , 14 (port�o do meio ) - CEP: 83409310, Produtos: [Produto: 21, Qtd: 2, Unit: R$1000.0, Subtotal: R$2000.0] [Produto: 22, Qtd: 1, Unit: R$800.0, Subtotal: R$800.0] , Total: R$2800.0

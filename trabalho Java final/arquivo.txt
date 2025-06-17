@@ -1,0 +1,13 @@
+====== MENU PRINCIPAL ======
+1 - Cadastrar pessoa
+2 - Cadastrar produto
+3 - Cadastrar pedido
+4 - Listar pessoas
+5 - Listar produtos
+6 - Listar pedidos
+7 - Atualizar produto
+8 - Remover produto
+9 - Atualizar pessoa
+10 - Remover pessoa
+0 - Sair
+===========================
